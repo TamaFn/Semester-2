@@ -1,0 +1,12 @@
+no    rela    percaya    kenal    pinjemin
+ 1     G         G         Y         Y
+ 2     Y         Y         Y         Y
+ 3     G         G         G         G
+ 4     G         Y         Y         Y
+ 5     G         G         Y         Y
+ 6     Y         Y         G         Y
+ 7     G         G         G         G
+ 8     G         Y         G         Y
+.9.....Y.........G.........G.........Y
+.10.....Y.........G.........Y.........Y
+.11.....G.........Y.........G.........Y
